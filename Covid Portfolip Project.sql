@@ -1,7 +1,15 @@
 /*
 Covid 19 Data Exploration 
 
+Description: Conducted a comprehensive data analysis project focusing on the impact of COVID-19 using SQL. This project involved data extraction, transformation, and loading (ETL) processes, followed by detailed analysis and visualization.
+
+Tools Used: SQL, Data Visualization
+
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+Key Skills: Data Collection, Data Cleaning, Data Analysis, Reporting
+
+Outcomes: Provided actionable insights on the spread and impact of COVID-19, including trend analysis and key metrics visualization.
 
 */
 
